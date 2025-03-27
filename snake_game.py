@@ -111,7 +111,7 @@ def main():
             snake.score += 1
             food.randomize_position()
 
-        # Draw everything
+        # Draw everything1
         screen.fill(BLACK)
         snake.render(screen)
         food.render(screen)
