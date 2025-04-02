@@ -2,7 +2,11 @@ import pygame
 import random
 import sys
 
+<<<<<<< HEAD
 # Initialize Pygame
+=======
+# Initialize Pygamee
+>>>>>>> 51413f734ef8f18ff3e5198b710e74a1ad57d84b
 pygame.init()
 
 # Constants
@@ -111,7 +115,11 @@ def main():
             snake.score += 1
             food.randomize_position()
 
+<<<<<<< HEAD
         # Draw everything
+=======
+        # Draw everything1
+>>>>>>> 51413f734ef8f18ff3e5198b710e74a1ad57d84b
         screen.fill(BLACK)
         snake.render(screen)
         food.render(screen)
@@ -124,4 +132,8 @@ def main():
         clock.tick(10)  # Control game speed
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     main() 
+=======
+    main() 
+>>>>>>> 51413f734ef8f18ff3e5198b710e74a1ad57d84b

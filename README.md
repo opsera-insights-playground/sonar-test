@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Snake Game
+=======
+# Snake Game .
+>>>>>>> 51413f734ef8f18ff3e5198b710e74a1ad57d84b
 
 A simple Snake game implementation using Python and Pygame.
 
@@ -31,4 +35,8 @@ python snake_game.py
 - Score tracking
 - Game resets when snake collides with itself
 - Wrapping around screen edges
+<<<<<<< HEAD
 - Smooth controls with prevention of 180-degree turns 
+=======
+- Smooth controls with prevention of 180-degree turns 
+>>>>>>> 51413f734ef8f18ff3e5198b710e74a1ad57d84b
