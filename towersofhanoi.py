@@ -22,3 +22,6 @@ def towers_of_hanoi(n, source, target, auxiliary):
 if __name__ == "__main__":
     num_disks = 3  # Change this value for more disks
     towers_of_hanoi(num_disks, "A", "C", "B")
+
+    
+    
